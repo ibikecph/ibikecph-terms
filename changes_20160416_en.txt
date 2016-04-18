@@ -1,0 +1,4 @@
+The most important changes:
+The user terms describe the collection of bicycle data, including what data is collected if you choose to participate, how data is stored and used, and your ability to delete data.
+The user terms now also covers the two apps "I Bike CPH" and "Cykelplanen".
+The user terms describes the use of analytical data to improve the service.

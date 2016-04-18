@@ -40,29 +40,13 @@ De indsamlede og registrerede oplysninger administreres efter de danske regler i
 
 Der må kun indhentes og benyttes relevante oplysninger og kun de personlige oplysninger, der er nødvendige for at drive og forbedre sitet og appene, ligesom vi bruger dine oplysninger til at kommunikere med dig, herunder til at fremsende nyhedsbreve, profiloplysninger, oplysning om forbedringer af sitet og appene og oplysninger om tekniske problemer.
 
-Der sker ingen overdragelse eller videregivelse af profiloplysninger fra sitet og appene til Københavns Kommunes forvaltning. Dog anvendes cykeldata som beskrevet i afsnittet om ’Indsamling af cykeldata’ til at forbedre de trafikale cykelforhold.
+Der sker ingen overdragelse eller videregivelse af profiloplysninger fra sitet og appene til Københavns Kommunes forvaltning.
 
 Dine rettigheder er at:
 du kan få at vide, hvilke oplysninger Københavns Kommune har om dig.
 du kan gøre indsigelse mod Københavns Kommunes behandling af dine oplysninger.Hvis din indsigelse er berettiget, skal behandlingen ophøre.
 du kan få urigtige eller vildledende oplysninger rettet eller slettet.
 du kan klage over Københavns Kommunes behandling af dine personoplysninger til datatilsynet, Borgergade 28, 5. sal, 1300 København K.
-
-
-Indsamling af cykeldata
-Formål: Appene giver dig mulighed for at indsamle cykeldata, dvs. GPS-data om hvor du har cyklet. Formålet er at give kunne give dig motiverende statistik om dine cykelvaner, samtidig med at data kan bruges af Københavns Kommune, Region Hovedstaden og kommunerne i Region Hovedstaden at forbedre cykelforholdene, fx ved at optimere trafiksignalerne, så cyklister oplever færre stop og mindre ventetid.
-
-Indsamling: Indsamling af cykeldata er frivillig og kan slås til eller fra hvornår det ønskes. De opsamlede cykeldata består af GPS-spor, dvs. en samling af punkter med placering og tidspunkt. Et enkelt GPS-spor svarer til en enkelt cykeltur.
-
-Opbevaring: Når opsamling af cykeldata er slået til bliver de indsamlede cykeldata gemt lokalt på din mobiltelefon. Data bliver desuden uploadet og opbevaret anonymt på ibikecph.dk hvor de ikke kan henføres til dig uden at du oplyser dit kodeord. Data kan ikke ses eller tilgås af andre brugere. De enkelte GPS-spor opbevares separat, så det er ikke muligt at vide hvilke spor, der er indsamlet af den samme bruger.
-
-Ejerskab og sletning: For at du beholder ejerskabet til dine data, gemmes et krypteret ID sammen med data. Det giver dig mulighed for at slette eller downloade dine data hvis du ønsker det, såfremt du angiver dit kodeord. Uden dit kodeord er det ikke muligt at knytte data til dig, eller for dig at slette data. Det betyder samtidig, at såfremt du mister dit kodeord, er det ikke muligt at genskabe dit ejerskab til data, som derefter vil forblive anonyme.
-
-Anvendelse: Data bliver brugt til at forbedre de trafikale cykelforhold. GPS-spor giver viden om gennemsnitlige hastigheder, antal stop og rejsemønstre for cyklister, etc. Det kan bruges til fx at forbedre indstillingen af grønne bølger så færre cyklister behøver at stoppe for rødt, samt til måle på effekten af gennemførte cykelprojekter. Anvendelse til andre formål kan kun ske efter en ændring af brugerbetingelserne, hvor du samtidig har mulighed for at slette dine data.
-
-Behandling: For at anvende data kan det være nødvendigt at anvende eksterne rådgivere, fx tekniske analyser af ventetider og hastigheder. Brug af rådgivere vil kun ske efter indgåelse af en databehandleraftale, der sikrer at data kun anvendes til det specificerede formål, samt forhindrer at data offentliggøres, sælges eller deles med tredjepart. Rådgivere  vil kun få adgang til anonyme data.
-
-Adgang: Vi sælger aldrig data. Vi offentliggør aldrig data om enkelte cykelture. Gennemsnit om fx hastighed på de forskellige veje, gennemsnitlig ventetid i forskellige kryds og andre gennemsnitlige og aggregerede data vil blive offentliggjort som del af vores politik om at gøre relevante data tilgængelige for offentligheden, så de kan anvendes i fx nye apps eller services.
 
 
 Indsigt i oplysninger
@@ -75,11 +59,11 @@ Cookies
 Sitet benytter sig af cookies for at skabe en optimal brugeroplevelse på sitet. En cookie er en lille fil, der gemmes på din computer, når du opretter en profil på sitet. Denne cookie bevirker, at siden vil kunne huske eksempelvis dit brugernavn.
 
 Ansvar for data
-Københavns Kommune er ansvarlig for de data du oplyser, når du indtaster dit navn og din emailadresse, ligesom Københavns Kommune er dataansvarlig for registreringen af din IP-adresse, samt for indsamlede cykeldata. Du er derimod alene selv ansvarlig for alle øvrige data, du måtte vælge at lægge op på sitet og appene.
+Københavns Kommune er ansvarlig for de data du oplyser, når du indtaster dit navn og din emailadresse, ligesom Københavns Kommune er dataansvarlig for registreringen af din IP-adresse. Du er derimod alene selv ansvarlig for alle øvrige data, du måtte vælge at lægge op på sitet og appene.
 
 Den tekniske drift af sitet og appene er foretaget af en ekstern virksomhed. Virksomheden forvalter de data som Københavns Kommune er ansvarlig for.. Når du benytter sitet eller appene accepterer du samtidig, at de data du selv er ansvarlig for ligeledes forvaltes af den eksterne virksomhed. Vær her opmærksom på, at virksomheden, der forestår den tekniske drift, udelukkende handler efter anvisning fra Københavns Kommune. Denne virksomhed har etableret sikkerhedsforanstaltninger mod, at oplysninger hændeligt eller ulovligt tilintetgøres, fortabes eller forringes samt mod, at de kommer til uvedkommendes kendskab, misbruges eller i øvrigt behandles i strid med lov om behandling af personoplysninger.
 
-Københavns Kommune bestræber sig på at tilsikre en stabil drift, men garanterer ikke for det. Hvis du er ude for tab af data i forbindelse med driftsproblemer eller andre forhold, er Københavns Kommune ikke erstatningsansvarlig over for dig, ligesom Københavns Kommune i videst mulig udstrækning fraskriver sig ethvert ansvar overfor dig i forbindelse med din brug af sitet og appene.
+Københavns Kommune bestræber sig på at tilsikre en stabil drift, men garanterer ikke for det. Hvis du er ude for tab af data i forbindelse med driftsproblemer eller andre forhold, er Københavns Kommune ikke erstatningsansvarlig over for dig. Københavns Kommune er alene erstatningsansvarlig efter dansk rets almindelige erstatningsregler.
 
 Rettigheder
-Københavns Kommune har alle rettigheder til sitet og appene. Når du benytter disse, opnår du som bruger udelukkende en non-eksklusiv brugsret til Københavns Kommune tekniske platform. Omvendt giver du udelukkende Københavns Kommune en non-eksklusiv brugsret til dit materiale, når du lægger indhold, oplysninger eller data på sitet eller appene. Denne brugsret giver du udelukkende Københavns Kommune med henblik på driften af sitet og appene. Således har du alle rettigheder til det materiale du lægger op på sitet og appene – med undtagelse af føromtalte brugsret. Indsamlet cykeldata kan anvendes af Københavns Kommune og Region Hovedstaden som beskrevet i afsnittet om Indsamling af cykeldata.
+Københavns Kommune har alle rettigheder til sitet og appene. Når du benytter disse, opnår du som bruger udelukkende en non-eksklusiv brugsret til Københavns Kommune tekniske platform. Omvendt giver du udelukkende Københavns Kommune en non-eksklusiv brugsret til dit materiale, når du lægger indhold, oplysninger eller data på sitet eller appene. Denne brugsret giver du udelukkende Københavns Kommune med henblik på driften af sitet og appene. Således har du alle rettigheder til det materiale du lægger op på sitet og appene – med undtagelse af føromtalte brugsret.

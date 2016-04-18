@@ -40,29 +40,13 @@ The collected and recorded data is managed in accordance with the danish law on 
 
 Only relevant information can be obtained and used, and only the personal information necessary to operate and improve the site and the apps, likewise we use your information to communicate with you, including sending you newsletters, profile information, information on improvements of the site and the apps and information regarding technical problems.
 
-There is no transfer or disclosure of profile information from the site and the apps to the administration of the City of Copenhagen. However, cycling data is used as described in the section 'Collection of cycle data' to improve the traffic conditions for cyclists.
+There is no transfer or disclosure of profile information from the site and the apps to the administration of the City of Copenhagen.
 
 Your rights are:
 you can be informed about what information Copenhagen stores about you.
 You can object to the City of Copenhagen's handling of your data. If your objection is justified, the handling must be discontinued.
 You can get incorrect or misleading information corrected or deleted.
 you can complain about the City of Copenhagen's handling of your personal data to the Danish Data Protection Agency, Borgergade 28, 5th floor, 1300 Copenhagen K.
-
-
-Collection of cycling data
-Purpose: the apps allows you to collect cycling data, ie GPS data of where you have been cycling. The purpose is to be able to provide you with motivational statistics about your bike habits. At the same the also can be used by the data the City of Copenhagen, the Capital Region and the municipalities in the Capital Region to improve cycling conditions, for example by optimizing traffic signals, so cyclists are experiencing fewer stops and less waiting time.
-
-Collection: Collection of bike data is optional and can be turned on or off when desired. The collected bicycle data consists of GPS tracks, ie a collection of points with location and time. A single GPS track corresponds to a single bicycle ride.
-
-Storage: When collection of data bicycle is turned on, the collected bicycle data is stored locally on your mobile phone. Data will also be uploaded and stored anonymously on ibikecph.dk where the data cannot be linked to you unless you provide your password. Data cannot be seen or accessed by other users. Each GPS tracks is stored separately, so that it is not possible to know which tracks were collected by the same user.
-
-Ownership and deletion: To help you keep ownership of your data, an encrypted ID is stored along with the data. This allows you to delete or download your data if you wish, if you provide your password. Without your password, it is not possible to link the data to you, or for you to delete data. This also means that if you lose your password, it is not possible to restore your ownership to the data, which will from then on remain anonymous.
-
-Use: Data will be used to improve the traffic conditions for cyclists. GPS tracks provide information about average speed, number of stops and travel patterns of cyclists, etc. It can be used for example to improve the settings of green waves so fewer cyclists have to stop at a red light, and to measure the impact of completed bicycle projects. The use of data for other purposes can only happen after a change of the user terms, where you also have the option to delete your data.
-
-Handling: In order to use the data it may be necessary to use external consultants, for example for doing technical analysis of waiting times and speeds. Use of consultants will happen only after entering a data handling agreement that ensures that data is only used for the specified purposes and which prevents data from being published, sold or shared with third parties. Consultants will only have access to anonymous data.
-
-Access: We never sell data. We never publish data on individual bicycle rides. Average speeds on different ways, the average waiting time in different intersections and other average or aggregated data will be published as part of our policy to make relevant data available to the public so they can be used in eg new apps or services.
 
 
 Access to information
@@ -79,7 +63,7 @@ Copenhagen is responsible for the data you provide when you enter your name and 
 
 The technical operation of the site and the apps is handled by an external company. The company manages the data that the City of Copenhagen is responsible for. When using the site or the apps you accept that the data you are responsible for is also managed by the external company. In this connection, please note that the company which is responsible for the technical operation, acts only on instructions from Copenhagen. The company has established safeguards to protect data against accidental or unlawful destruction, loss or alteration and against unauthorized disclosure, abuse or other processing in violation of the law concerning the processing of personal data.
 
-The City of Copenhagen strives to provide stable operations, but does not guarantee it. If you experience data loss in connection with operational problems or other issues, the City of Copenhagen will not be liable to you, also the City of Copenhagen, to the extent possible,  disclaims any responsibility to you related to your use of the site and the apps.
-
+The City of Copenhagen strives to provide stable operations, but does not guarantee it. If you experience data loss in connection with operational problems or other issues, the City of Copenhagen will not be liable to you. The City of Copenhagen is only liable according to danish laws and it's normal rules on liability.
+ 
 Rights
-Copenhagen has all rights to the site and the apps. When you use these, you obtain only a non-exclusive right to use the City of Copenhagen's technical platform. Conversely, you only give the City of Copenhagen a non-exclusive right to use your material when you place content, information or data on the site or the apps. This usage right you give to the City of Copenhagen only relates to operation of the site and the apps. Thus, you have all rights to the material you put place the site and the apps - with the exception of the aforementioned use right. Collected bicycle data can be used by City of Copenhagen and the Capital Region of Copenhagen as described in the section on the Collection of bicycle data.
+Copenhagen has all rights to the site and the apps. When you use these, you obtain only a non-exclusive right to use the City of Copenhagen's technical platform. Conversely, you only give the City of Copenhagen a non-exclusive right to use your material when you place content, information or data on the site or the apps. This usage right you give to the City of Copenhagen only relates to operation of the site and the apps. Thus, you have all rights to the material you put place the site and the apps - with the exception of the aforementioned use right.

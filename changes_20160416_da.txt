@@ -1,4 +1,3 @@
 De vigtigste ændringer:
-Brugerbetingelserne beskriver indsamling af cykeldata, herunder hvilke data der opsamles hvis du vælger at deltage, hvordan data opbevares og anvendes samt dine muligheder for at slette data.
-Brugerbetingelserne dækker nu også de to apps ”I Bike CPH” og ”Cykelplanen”.
+Brugerbetingelserne dækker nu også de to apps ”I Bike CPH” og ”Cykelplanen”, ud over sitet www.ibikecph.dk.
 Brugerbetingelserne beskriver brug af analysedata til forbedring af servicen.

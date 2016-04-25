@@ -1,3 +1,2 @@
-The most important changes:
-The user terms now covers the two apps "I Bike CPH" and "Cykelplanen" in addition to the www.ibikecph site.
+The user terms covers the two apps I Bike CPH and CykelPlanen, in addition to the www.ibikecph site.
 The user terms describes the use of analytical data to improve the service.

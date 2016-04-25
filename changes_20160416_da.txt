@@ -1,3 +1,2 @@
-De vigtigste ændringer:
-Brugerbetingelserne dækker nu også de to apps ”I Bike CPH” og ”Cykelplanen”, ud over sitet www.ibikecph.dk.
+Brugerbetingelserne dækker de to apps I Bike CPH og CykelPlanen, ud over sitet www.ibikecph.dk.
 Brugerbetingelserne beskriver brug af analysedata til forbedring af servicen.
